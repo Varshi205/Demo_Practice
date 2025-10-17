@@ -1,3 +1,3 @@
 # Demo_Practice
 This is my first git repository
-Author - Varshitha S
+Author - Varshitha S(QE)
